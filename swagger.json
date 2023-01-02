@@ -1,0 +1,25 @@
+{
+  "consumes": [
+    "application/json"
+  ],
+  "produces": [
+    "application/json"
+  ],
+  "schemes": [
+    "http"
+  ],
+  "swagger": "2.0",
+  "info": {
+    "description": "これはサンプルAPIです。",
+    "title": "Recipes API",
+    "contact": {
+      "name": "Self Note",
+      "url": "https://selfnote.work/",
+      "email": "selfnote@example.com"
+    },
+    "version": "1.0.0"
+  },
+  "host": "localhost:8080",
+  "basePath": "/",
+  "paths": {}
+}
